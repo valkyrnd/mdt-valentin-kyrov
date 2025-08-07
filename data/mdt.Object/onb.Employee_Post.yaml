@@ -1,0 +1,12 @@
+Fields:
+  DateBegin: 
+  DateEnd:
+    Nullable: True
+  ID: 
+  ID_Employee: 
+  ID_Post:
+    Default: True
+  MDT_DateCreate: 
+  MDT_ID_PrincipalCreatedBy: 
+Title_ru: Должности сотрудника
+TitlePlural_ru: Должности сотрудники

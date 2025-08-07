@@ -1,0 +1,38 @@
+Fields:
+  Code:
+    Title_ru: Табельный номер
+  DateBirth:
+    Title_ru: Дата рождения
+  DateDismissal:
+    Nullable: True
+    Title_ru: Дата увольнения
+  DateEmployment:
+    Title_ru: Дата приема на работу
+  FullName:
+    Default: True
+    Title_ru: ФИО
+  ID: 
+  MDT_DateCreate: 
+  MDT_ID_PrincipalCreatedBy: 
+  FlagWorking_o2o:
+    ID_ObjectFieldKind: o2o
+    ID_RefObject: onb.vw_EmployeeWorking
+    ID_RefObjectField: ID_Employee
+    Nullable: True
+    SortOrder: 1
+  Post_hist:
+    ID_ObjectFieldKind: hist
+    ID_RefObject: onb.Employee_Post
+    ID_RefObjectField: ID_Employee
+    Nullable: True
+    SortOrder: 1
+  Statement_o2m:
+    ID_ObjectFieldKind: o2m
+    ID_RefObject: onb.Statement
+    ID_RefObjectField: ID_Employee
+    Nullable: True
+    SortOrder: 1
+Title_en: Employee
+Title_ru: Сотрудник
+TitlePlural_en: Employees
+TitlePlural_ru: Сотрудники

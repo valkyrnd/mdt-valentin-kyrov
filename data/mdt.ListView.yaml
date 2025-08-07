@@ -1,0 +1,20 @@
+﻿onb.Employee__2:
+  FlagShared: True
+  Settings: |-
+    {
+      "sorting": [
+        {
+          "path": "DateBirth",
+          "asc": false
+        }
+      ],
+      "columnOrder": [],
+      "hiddenColumns": [
+        "Code",
+        "DateEmployment",
+        "DateDismissal",
+        "Post_hist$",
+        "FlagWorking_o2o$"
+      ]
+    }
+  Title: Дни рождения

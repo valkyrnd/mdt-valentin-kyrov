@@ -1,0 +1,8 @@
+Columns:
+  DateRegistration:
+    Position: 0
+  ID_Employee$:
+    Position: 1
+  Content:
+    Position: 2
+    Width: 454px

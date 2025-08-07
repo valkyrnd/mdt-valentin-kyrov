@@ -1,4 +1,4 @@
+code: lesson1
 platform: main
 db:
   installType: legacy
-  

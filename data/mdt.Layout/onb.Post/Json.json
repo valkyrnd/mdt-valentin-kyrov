@@ -1,0 +1,30 @@
+{
+  "rows": [
+    {
+      "cols": [
+        {
+          "type": "field",
+          "options": {
+            "field": "Code",
+            "control": "input",
+            "labelMode": null,
+            "type": "text",
+            "size": 2
+          },
+          "width": 4
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "Name",
+            "control": "input",
+            "labelMode": null,
+            "type": "text",
+            "size": 4
+          },
+          "width": 8
+        }
+      ]
+    }
+  ]
+}
