@@ -1,0 +1,11 @@
+Fields:
+  FlagWorking:
+    Default: True
+    ID_ObjectFieldType: boolean
+  ID_Employee:
+    ID_ObjectFieldKind: o2o
+    ID_RefObject: onb.Employee
+    ID_RefObjectField: ID
+Readonly: True
+Title_ru: Работает
+TitlePlural_ru: Работает

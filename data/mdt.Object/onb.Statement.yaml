@@ -1,0 +1,18 @@
+Fields:
+  ID: 
+  MDT_ID_PrincipalCreatedBy:
+    SortOrder: 1
+  DateRegistration:
+    Default: True
+    SortOrder: 2
+    Title_ru: Дата
+  ID_Employee:
+    SortOrder: 3
+  MDT_DateCreate:
+    SortOrder: 4
+  Content:
+    Nullable: False
+    SortOrder: 5
+    Title_ru: Текст заявления
+Title_ru: Заявление
+TitlePlural_ru: Заявления

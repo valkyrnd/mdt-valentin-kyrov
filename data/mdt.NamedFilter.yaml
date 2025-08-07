@@ -1,0 +1,18 @@
+﻿onbEmployeeРаботает:
+  FlagShared: True
+  ID_Object: onb.Employee
+  Settings: |-
+    {
+      "extended": {
+        "op": "and",
+        "groups": [
+          {
+            "p1": "FlagWorking_o2o",
+            "op": "eq",
+            "p2": true,
+            "cast": null
+          }
+        ]
+      }
+    }
+  Title: Работает

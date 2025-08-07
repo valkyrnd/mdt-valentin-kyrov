@@ -1,0 +1,14 @@
+Description_en: Workers posts
+Description_ru: Должности сотрудников
+Fields:
+  Code: 
+  ID: 
+  MDT_DateCreate: 
+  MDT_ID_PrincipalCreatedBy:
+    Nullable: False
+  Name:
+    Default: True
+Title_en: Post
+Title_ru: Должность
+TitlePlural_en: Posts
+TitlePlural_ru: Должности

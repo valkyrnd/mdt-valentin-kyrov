@@ -1,0 +1,70 @@
+{
+  "rows": [
+    {
+      "cols": [
+        {
+          "type": "field",
+          "options": {
+            "field": "FullName"
+          },
+          "width": 8
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "Code"
+          },
+          "width": 2
+        },
+        {
+          "type": "fieldPathValue",
+          "options": {
+            "showFullPath": false,
+            "labelMode": null,
+            "fieldPath": "FlagWorking_o2o$"
+          },
+          "width": 2
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "DateBirth"
+          },
+          "width": 4
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "DateEmployment"
+          },
+          "width": 4
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "DateDismissal"
+          },
+          "width": 4
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "Post_hist"
+          },
+          "width": 12
+        },
+        {
+          "options": {
+            "control": "o2m",
+            "labelMode": null,
+            "field": "Statement_o2m",
+            "title": "Заявления",
+            "pickField": "MDT_ID_PrincipalCreatedBy"
+          },
+          "type": "field",
+          "width": 12
+        }
+      ]
+    }
+  ]
+}

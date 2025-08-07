@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "cols": [
+        {
+          "type": "field",
+          "options": {
+            "field": "ID_Employee",
+            "control": null,
+            "labelMode": null
+          },
+          "width": 8
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "DateRegistration",
+            "control": null,
+            "labelMode": null
+          },
+          "width": 4
+        },
+        {
+          "type": "field",
+          "options": {
+            "field": "Content",
+            "control": "textarea",
+            "labelMode": null,
+            "rows": 5
+          },
+          "width": 12
+        }
+      ]
+    }
+  ]
+}

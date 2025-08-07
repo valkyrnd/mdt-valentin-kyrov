@@ -1,0 +1,16 @@
+Columns:
+  Code:
+    Position: 0
+  FullName:
+    Position: 1
+    Width: 143px
+  DateBirth:
+    Position: 2
+  DateEmployment:
+    Position: 3
+  DateDismissal:
+    Position: 4
+  Post_hist$:
+    Position: 5
+  FlagWorking_o2o$:
+    Position: 6
